@@ -1,4 +1,7 @@
-# AuthLoginDemo
+Full-stack developed login and registration system using Asp.Net Core, Angular and JWT Bearer.
+
+
+# AuthLoginRegisterDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
