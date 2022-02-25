@@ -1,0 +1,162 @@
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.json
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.exe
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.deps.json
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.json
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.dev.json
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.AssemblyReference.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfoInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CoreCompileInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.Manifest.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.xml
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\scopedcss\bundle\AuthLoginDemo_bnd.styles.css
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.RazorTargetAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CopyComplete
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.genruntimeconfig.cache
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.exe
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.deps.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.dev.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.AssemblyReference.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfoInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CoreCompileInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.Manifest.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.xml
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\scopedcss\bundle\AuthLoginDemo_bnd.styles.css
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.RazorTargetAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CopyComplete
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\AuthLoginDemo\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.genruntimeconfig.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\appsettings.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.exe
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.deps.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.runtimeconfig.dev.json
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.AssemblyReference.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfoInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.AssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CoreCompileInputs.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.Manifest.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\staticwebassets\AuthLoginDemo_bnd.StaticWebAssets.xml
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\scopedcss\bundle\AuthLoginDemo_bnd.styles.css
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.RazorTargetAssemblyInfo.cache
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.csproj.CopyComplete
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\ref\AuthLoginDemo_bnd.dll
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.pdb
+C:\Users\hmert\Desktop\Codes\Web\.Asp.Net\Asset-Management-System\asset management\AuthLoginDemo_bnd\obj\Debug\net5.0\AuthLoginDemo_bnd.genruntimeconfig.cache
